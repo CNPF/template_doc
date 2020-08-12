@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Read the Docs Template's documentation!
-==================================================
+Bienvenue dans la documentation technique des sites Internet du CNPF!
+=====================================================================
 
-Contents:
+Sommaire:
 
 .. toctree::
    :maxdepth: 2
@@ -22,4 +22,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
