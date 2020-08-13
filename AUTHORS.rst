@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Richard LEHAUT : CNPF contributeur
+* Fabien MARTIN : SFT contributeur
 
 
