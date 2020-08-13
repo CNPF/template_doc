@@ -8,6 +8,6 @@ Architecture modèle à utiliser lors de la création d'une nouvelle documentati
 .. toctree::
    :maxdepth: 1
 
-    webdesign
-    contenu
-    service
+   webdesign
+   contenu
+   service
