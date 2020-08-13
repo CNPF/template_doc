@@ -14,7 +14,23 @@ Sommaire:
 
    *
 
+Architecture type
+-----------------
 
+Architecture type pour la mise en place d'une documentation technique d'un projet
+
+* :doc:`/modele/webdesign`
+* :doc:`/modele/contenu`
+* :doc:`/modele/service`
+
+.. toctree::
+ :maxdepth: 2
+ :hidden:
+ :caption: Architecture type
+
+ /modele/webdesign
+ /modele/contenu
+ /modele/service
 
 Indices and tables
 ==================
