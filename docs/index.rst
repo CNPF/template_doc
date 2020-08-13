@@ -24,13 +24,13 @@ Architecture type pour la mise en place d'une documentation technique d'un proje
 * :doc:`/modele/service`
 
 .. toctree::
- :maxdepth: 2
- :hidden:
- :caption: Architecture type
+   :maxdepth: 2
+   :hidden:
+   :caption: Architecture type
 
- /modele/webdesign
- /modele/contenu
- /modele/service
+   /modele/webdesign
+   /modele/contenu
+   /modele/service
 
 Indices and tables
 ==================
