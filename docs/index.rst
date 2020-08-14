@@ -1,13 +1,5 @@
 .. include:: ../README.rst
 
-Sommaire:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   *
-
 Architecture type d'un projet
 -----------------------------
 
