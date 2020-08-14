@@ -25,12 +25,6 @@ Architecture type pour la mise en place d'une documentation technique d'un proje
    /modele/contenu
    /modele/service
 
-.. toctree::
-    :maxdepth: 2
-    :numbered:
-    :caption: Demo Documentation
-
-    demo/structure
 
 Indices and tables
 ==================
