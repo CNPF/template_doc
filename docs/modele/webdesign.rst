@@ -6,8 +6,10 @@ Organisation des pages
 
 Rogatus ad ultimum admissusque in consistorium ambage nulla praegressa inconsiderate et leviter proficiscere inquit ut praeceptum est, Caesar sciens quod si cessaveris, et tuas et palatii tui auferri iubebo prope diem annonas. hocque solo contumaciter dicto subiratus abscessit nec in conspectum eius postea venit saepius arcessitus.
 
+:download:`This download link should be blue, normal weight text with a leading icon, and should wrap white-spaces <files/rapport.pdf>`
+
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
     Présentation générale
     En tête de page
@@ -21,7 +23,7 @@ Contenus
 Rogatus ad ultimum admissusque in consistorium ambage nulla praegressa inconsiderate et leviter proficiscere inquit ut praeceptum est, Caesar sciens quod si cessaveris, et tuas et palatii tui auferri iubebo prope diem annonas. hocque solo contumaciter dicto subiratus abscessit nec in conspectum eius postea venit saepius arcessitus.
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
     Les tableaux
     Liste de puces
