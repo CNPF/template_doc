@@ -272,8 +272,6 @@ Citations
 .. [13] This citation will have two backlinks.
 
 
-Here's a reference to the above, [12]_, and a [nonexistent]_ citation.
-
 Here is another type of citation: `citation`
 
 Glossary

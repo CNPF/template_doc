@@ -43,7 +43,7 @@ Architecture type pour la mise en place d'une documentation technique d'un proje
     demo/structure
     demo/demo
     demo/lists_tables
-    demo/api
+
 
 Indices and tables
 ==================
