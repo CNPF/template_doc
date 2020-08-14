@@ -258,13 +258,9 @@ Footnotes
 
 .. [*] This footnote shows the next symbol in the sequence.
 
-.. [4] Here's an unreferenced footnote, with a reference to a
-   nonexistent footnote: [5]_.
 
 Citations
 ---------
-
-.. [11] This is the citation I made, let's make this extremely long so that we can tell that it doesn't follow the normal responsive table stuff.
 
 .. [12] This citation has some ``code blocks`` in it, maybe some **bold** and
        *italics* too. Heck, lets put a link to a meta citation [13]_ too.
