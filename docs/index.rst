@@ -8,16 +8,6 @@ Sommaire:
 
    *
 
-.. toctree::
-   :caption: Infrastructure
-   :maxdepth: 2
-
-   Niveau1
-   Niveau2
-   Niveau3
-
-
-
 Architecture type d'un projet
 -----------------------------
 
@@ -41,9 +31,6 @@ Architecture type pour la mise en place d'une documentation technique d'un proje
     :caption: Demo Documentation
 
     demo/structure
-    demo/demo
-    demo/lists_tables
-
 
 Indices and tables
 ==================
