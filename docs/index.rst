@@ -13,21 +13,17 @@ Architecture type d'un projet
 
 Architecture type pour la mise en place d'une documentation technique d'un projet
 
-* :doc:`/modele/webdesign`
-* :doc:`/modele/contenu`
-* :doc:`/modele/service`
-
 .. toctree::
    :maxdepth: 2
-   :caption: Architecture type
-
+   :titlesonly:
+   
    /modele/webdesign
    /modele/contenu
    /modele/service
 
 .. toctree::
     :maxdepth: 2
-    :caption: Demo Documentation
+    :caption: Documentation Demo
 
     demo/structure
     demo/demo
