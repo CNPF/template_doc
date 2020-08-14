@@ -29,10 +29,8 @@ Architecture type pour la mise en place d'une documentation technique d'un proje
 
 .. toctree::
    :maxdepth: 2
-   :numbered:
    :caption: Architecture type
 
-   /modele/balise
    /modele/webdesign
    /modele/contenu
    /modele/service
