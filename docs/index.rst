@@ -11,7 +11,7 @@ Sommaire:
 Architecture type d'un projet
 -----------------------------
 
-Architecture type pour la mise en place d'une documentation technique d'un projet
+Architecture type pour la mise en place d'une documentation technique d'un projet.
 
 * :doc:`/modele/webdesign`
 * :doc:`/modele/contenu`
@@ -29,7 +29,7 @@ Architecture type pour la mise en place d'une documentation technique d'un proje
 Démo Documentation
 ------------------
 
-Démonstration des différentes balises
+Démonstration des différentes balises.
 
 * :doc:`/demo/structure`
 * :doc:`demo/demo`
