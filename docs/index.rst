@@ -1,10 +1,4 @@
-.. Read the Docs Template documentation master file, created by
-   sphinx-quickstart on Tue Aug 26 14:19:49 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Bienvenue dans la documentation technique des sites Internet du CNPF!
-=====================================================================
+.. include:: ../README.rst
 
 Sommaire:
 
@@ -14,8 +8,18 @@ Sommaire:
 
    *
 
-Architecture type
------------------
+.. toctree::
+   :caption: Infrastructure
+   :maxdepth: 2
+
+   Niveau1
+   Niveau2
+   Niveau3
+
+
+
+Architecture type d'un projet
+-----------------------------
 
 Architecture type pour la mise en place d'une documentation technique d'un projet
 
@@ -25,12 +29,23 @@ Architecture type pour la mise en place d'une documentation technique d'un proje
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
+   :numbered:
    :caption: Architecture type
 
+   /modele/balise
    /modele/webdesign
    /modele/contenu
    /modele/service
+
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: Demo Documentation
+
+    demo/structure
+    demo/demo
+    demo/lists_tables
+    demo/api
 
 Indices and tables
 ==================
